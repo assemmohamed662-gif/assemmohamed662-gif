@@ -18,7 +18,8 @@ actionable insights.
 ## 📂 Projects
 
 ### 🏦 Customer Attrition Analysis
-Python · SQL Server · Power BI
+**Python · SQL Server · Power BI**
+
 Built a database from scratch, cleaned a 10,127-record 
 banking dataset, and designed a 5-page interactive 
 dashboard to identify key churn drivers.
@@ -27,7 +28,8 @@ dashboard to identify key churn drivers.
 ---
 
 ### 🛍️ Retail Sales Performance Analysis
-Power BI
+**Power BI**
+
 End-to-end analysis of a £7M retail dataset across 
 England, Scotland & Wales (2018–2021), covering sales, 
 profitability, and product performance.
@@ -36,7 +38,8 @@ profitability, and product performance.
 ---
 
 ### 👥 HR Performance & Salary Analytics
-Excel · Power Query
+**Excel · Power Query**
+
 Interactive HR dashboard analyzing salary distributions 
 and performance growth across 3 branches in Egypt.
 [View Repository](https://github.com/assemmohamed662-gif/HR-Performance-Analytics)
